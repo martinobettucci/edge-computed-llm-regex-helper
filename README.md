@@ -7,4 +7,4 @@ C'est une architecture où les calculs se font coté *end-user* et dans le cadre
 Aujourd'hui je vous propose de découvrir *WebGPU*, un framework qui permet du faire du *edge computing* avec **VOTRE GPU** et par conséquence, de __faire de l'IA sans dépendre d'un serveur central__!
 
 Article:
-https://www.linkedin.com/posts/martinobettucci_o4-activity-7318549008891756544--qby
+https://blog.p2enjoy.studio/ai-edge-computing-ca981dcc4a95
